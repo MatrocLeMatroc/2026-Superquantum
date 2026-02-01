@@ -1,0 +1,34 @@
+# Virtual environments
+venv/
+venv_grid/
+.venv/
+rmsynth/venv/
+./venv/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Project specific files
+submissions_task2.qasm
+old/

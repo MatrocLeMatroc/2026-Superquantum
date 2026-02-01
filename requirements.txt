@@ -1,0 +1,9 @@
+# Main dependencies
+numpy
+qiskit
+scipy
+pyzx
+pygridsynth
+
+# Local package (install with: pip install -e ./rmsynth)
+# rmsynth
